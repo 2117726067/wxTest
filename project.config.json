@@ -12,9 +12,9 @@
 		"autoAudits": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.6.4",
+	"libVersion": "2.0.4",
 	"appid": "wxea626564a062e6f9",
-	"projectname": "%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%89%E7%8F%AD29%E5%8F%B7%E5%90%B4%E6%88%90%E6%9D%B0",
+	"projectname": "wxTest-master",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
